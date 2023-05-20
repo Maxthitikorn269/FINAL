@@ -1,0 +1,3 @@
+สร้าง Directly จาก mkdir 
+สร้างไฟล์เปล่า จาก touch CLASS_ROBOT
+ทำการ upload ขึ้น git ที่ Remote Repo ชื่อ https://github.com/class-robot/final-exam.git 
